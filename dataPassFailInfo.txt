@@ -1,0 +1,6 @@
+testSuiteId testCasesPassFail
+TS1	P	F	P								
+TS2	P										
+TS3	P	F	P	P	F	P	P	P	P	P	F	F
+TS4	P	P	P	F							
+TS5	P	P										
