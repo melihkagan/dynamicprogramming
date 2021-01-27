@@ -1,5 +1,4 @@
-/* Melih Kaðan Özçelik
-ID : 150160050
+/* Melih KaÃ°an Ã–zÃ§elik
 25.05.2020 */
 #include <iostream>
 #include <fstream>
